@@ -1,8 +1,9 @@
-import Header from "../Components/Header";
+import Layout from "../components/MyLayout";
 
 export default () => (
   <div>
-    <Header />
-    <p>Hello Next.js</p>
+    <Layout>
+        <p>Hello Next.js</p>
+    </Layout>
   </div>
 )
