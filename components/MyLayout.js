@@ -1,4 +1,4 @@
-import Header from './Header'
+import Header from './Header';
 
 const layoutStyle = {
     margin: 20,
@@ -13,4 +13,4 @@ const Layout = (props) => (
     </div>
 )
 
-export default Layout
+export default Layout;
